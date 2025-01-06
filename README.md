@@ -16,8 +16,8 @@ Steps to Run the Code
    - Open it in Google Colab for an optimal experience.
 
 2. Download the Dataset:
-   - Download the dataset from this Kaggle link (https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification) or Google Drive (https://drive.google.com/file/d/15KGC44W83vRvrx8oZpmA982WMEwy4oiV/view) which is as a ZIP file.
-
+   - Download the dataset from this Kaggle link (https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
+     
 3. Upload the Dataset to Google Drive:
    - Extract the downloaded ZIP file.
    - Upload the `genres_original` folder (or equivalent) to a directory in your Google Drive.
